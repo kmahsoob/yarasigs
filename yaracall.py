@@ -2,7 +2,7 @@
 
 import yara 
 
-rules = yara.compile('/github/kmahsoob/yarasigns/main.yara')
+rules = yara.compile('/github/kmahsoob/yarasigs/main.yara')
 
 
 
